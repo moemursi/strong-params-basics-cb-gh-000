@@ -1,4 +1,4 @@
-# Strong Params Basics
+you# Strong Params Basics
 
 ## What are Strong Params?
 
